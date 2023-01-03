@@ -1,0 +1,28 @@
+.menu{
+   list-style: none;
+   position: fixed;
+   background-color: floralwhite;
+   width: 100%;
+   margin-top:0px;
+   top:0px;
+   cursor: pointer; 
+}
+.links{
+   float: left;
+   padding-top: 5px;
+   padding-left: 9px;
+   padding-right: 9px;
+   padding-bottom: 5px;
+   font-family: Verdana;
+   font-size: 20px; 
+}
+#name{
+    font-size: 50px;
+    background-color: aqua;
+}
+#bio{
+    font-size: 20px;
+    background-color: rgb(229, 255, 0);
+    font-family: 'Times New Roman';
+}
+
